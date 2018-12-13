@@ -79,7 +79,7 @@ body {
 }
 
 .title {
-  max-width: 592px;
+  max-width: 594px;
   margin-bottom: 32px;
   font-family: "Druk", sans-serif;
   font-size: 24px;
@@ -88,7 +88,7 @@ body {
 .title__decorator {
   display: block;
   color: transparent;
-  -webkit-text-stroke: 0.1px #fff;
+  -webkit-text-stroke: 1px #fff;
 }
 
 @media (min-width: 1024px) {
